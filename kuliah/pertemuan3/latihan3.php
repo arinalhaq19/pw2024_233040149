@@ -1,18 +1,19 @@
 <?php
+
 echo  "Mulai. <br>";
-$nilai_awal = 1;
-while ($nilai_awal <=5) {
- echo  "Hello World!  $nilai_awal <br>";
- $nilai_awal = $nilai_awal + 2;
+$nilai_awal = 5;
+while ($nilai_awal <=20) {
+ echo  "Hello World $nilai_awal x! <br>";
+ $nilai_awal +=5;
 }
 echo  "Selesai. <br>";
 
-echo "<br>";
+echo "<hr>";
 
-echo "mulai <br>"
-for($nilai_awal = 1; $nilai_awal <=10; 
-$nilai_awal =--) {
-    echo "hello word $nilai_awal x! <br>";
+echo "mulai <br>";
+
+for($i = 10; $i >= 1; $i -= 1) {
+    echo "Hello world $i x! <br>";
 }
 
 
