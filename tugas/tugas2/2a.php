@@ -1,7 +1,6 @@
 <?php
 
 $nama_depan = "Arinal";
-
 $nama_belakang = "Haq";
 
 for ($i = 1; $i <= 100; $i++) {
