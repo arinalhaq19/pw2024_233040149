@@ -1,5 +1,4 @@
 <?php
-
     $npm = "149";
 
     echo "aku adalah angka <strong> $npm </strong> <br>";

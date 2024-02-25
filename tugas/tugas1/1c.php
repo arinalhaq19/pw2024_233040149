@@ -3,8 +3,8 @@
 <head>
     <style>
         .kotak {
-            width: 100px;
             border: 2px solid blue;
+            width: 100px;
             color: black;
             text-align: center;
             line-height: 100px;
